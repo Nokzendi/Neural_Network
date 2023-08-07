@@ -50,4 +50,4 @@ streamlit run task1.py
 ```
 
 ## Usage
-Once you run the command above, the app should open up in your browser. Enjoy
+Once you run the command above, the app should open up in your browser. You can also find the hosted app in this [link](https://neuralnetwork-wpacpmpr53nx267dgcjsr9.streamlit.app/). Enjoy.
